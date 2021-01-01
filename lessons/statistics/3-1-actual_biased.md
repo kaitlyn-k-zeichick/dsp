@@ -46,4 +46,8 @@
 Results: The actual mean for the number of children in a household was 1.02. The biased/observed mean was 2.4. The 
 unbiased mean was 1.9. 
 
+Plotted observed and actual distributions: 
+
+![Image of plotted and actual distributions](https://github.com/kaitlyn-k-zeichick/dsp/blob/master/img/ch3_exercise.png)
+
 
