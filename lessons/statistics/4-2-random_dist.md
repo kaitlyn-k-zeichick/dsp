@@ -23,4 +23,10 @@
     thinkplot.Pmf(random_pmf)
     thinkplot.Show(xlabel='number', ylabel='PMF')
     
+Random Pmf:
 
+![Pmf image](https://github.com/kaitlyn-k-zeichick/dsp/blob/master/img/random_pmf.png)
+
+Random Cdf:
+
+![Cdf_image](https://github.com/kaitlyn-k-zeichick/dsp/blob/master/img/random_cdf.png)
