@@ -104,7 +104,7 @@ Conclusion: P(i | C) = P(i) / P(C) = (1/300 * 1/2) / ((1/300 * 1/2) + (1/125 * 1
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
-Frequentist: A hypothesis is tested without being assigned a probability.
+Frequentist: A hypothesis is tested without being assigned a probability.  
 Bayesian: A probability is assigned to a hypothesis.
 
 ---
